@@ -12,22 +12,22 @@ $200,000 at `/warp KeyShop`
 
 |          Item          |   chance  |
 |:----------------------:|:---------:|
-|   `❀ Knockback Fish ❀`   | 6% chance |
-|  `❀ Levitation Boots ❀`  | 6% chance |
-|    `❀ Magma Strider ❀`   | 6% chance |
-|    `❀ Running Shoes ❀`   | 6% chance |
-| `❀ Frostfire Gauntlet ❀` | 6% chance |
+|   `❀ Knockback Fish ❀`   | 4% chance |
+|  `❀ Levitation Boots ❀`  | 4% chance |
+|    `❀ Magma Strider ❀`   | 4% chance |
+|    `❀ Running Shoes ❀`   | 4% chance |
+| `❀ Frostfire Gauntlet ❀` | 4% chance |
 |   `❀ The Kings Crown ❀`  | 6% chance |
-|     `❀ Pinata Bat ❀`     | 3% chance |
-|   `❀ Pig-ifier Wand ❀`   | 3% chance |
-|    `❀ Icarus Sword ❀`    | 4% chance |
-|    `❀ Grapple Hook ❀`    | 4% chance |
-|     `❀ Dwarf Pick ❀`     | 4% chance |
-| `❀ Unbreakable Armour Set ❀` | 4% chance |
-|   `❀ Blossom Helmet ❀`   | 4% chance |
-|    `❀ Blossom Boots ❀`   | 4% chance |
-|     `❀ The Repeater ❀`   | 4% chance |
-| `Blossom Bee Pet Voucher` | 4% chance |
+|     `❀ Piñata Bat ❀`     | 3% chance |
+|   `❀ Pig-ifier Wand ❀`   | 0% chance |
+|    `❀ Icarus Sword ❀`    | 3% chance |
+|    `❀ Grapple Hook ❀`    | 3% chance |
+|     `❀ Dwarf Pick ❀`     | 3% chance |
+| `❀ Unbreakable Armour Set ❀` | 3% chance |
+|   `❀ Blossom Helmet ❀`   | 3% chance |
+|    `❀ Blossom Boots ❀`   | 3% chance |
+|     `❀ The Repeater ❀`   | 3% chance |
+| `Blossom Bee Pet Voucher` | 3% chance |
 |       `❀ Eclipse ❀`      | 2% chance |
 |    `❀ Blossom Sword ❀`   | 2% chance |
 | `❀ Blossom Chestplate ❀` | 2% chance |
