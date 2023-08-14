@@ -20,4 +20,5 @@ Rarity: Rare
 Win Chance: 4%
 ```
 
-tool/model: `pufferfish`
+##### item:
+`pufferfish`

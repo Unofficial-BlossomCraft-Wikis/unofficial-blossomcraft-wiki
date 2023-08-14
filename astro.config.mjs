@@ -25,6 +25,11 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'The ❀ LEGACY ❀ crate', link: '/legacy/home/' },
 						{ label: '❀ Knockback Fish ❀', link: '/legacy/knockback-fish/' },
+						{ label: '❀ Levitation Boots ❀', link: '/legacy/levitation-boots/'},
+						{ label: '❀ Magma Strider ❀', link: '/legacy/magma-strider/'},
+						{ label: '❀ Running Shoes ❀', link: '/legacy/running-shoes/'},
+						{ label: '❀ Frostfire Gauntlet ❀', link: '/legacy/frostfire-gauntlet/'},
+						{ label: '❀ The Kings Crown ❀', link: '/legacy/the-kings-crown/'},
 					],
 				},
 			],
