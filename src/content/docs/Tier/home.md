@@ -1,6 +1,6 @@
 ---
-title: ❀ LEGACY ❀ crate
-description: ❀ LEGACY ❀ crate | Unofficial BlossomCraft Crate & Item Documentation
+title: Tier crates
+description: Tier crates | Unofficial BlossomCraft Crate & Item Documentation
 ---
 
 The Tier crates, the most common crates to open.

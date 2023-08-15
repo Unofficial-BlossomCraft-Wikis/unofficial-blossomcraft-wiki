@@ -40,6 +40,13 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Spawner crate',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'The Spawner', link: '/spawner/home/' },
+					],
+				},
+				{
 					label: '❀ LEGACY ❀ Crate',
 					items: [
 						// Each item here is one entry in the navigation menu.
