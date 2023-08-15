@@ -11,13 +11,16 @@ export default defineConfig({
 			favicon: 'favicon.png',
 			title: 'Unofficial BlossomCraft Crate & Item Documentation',
 			social: {
-				github: 'https://github.com/Alties-GamingYT/fan-blossomcraft-crate-docs',
+				github: 'https://github.com/Alties-GamingYT/fan-blossomcraft-item-docs',
 			},
 			customCss: [
 				// Relative path to your @font-face CSS file.
 				'./src/fonts/fonts.css',
 				'./src/styles/main.css',
 			],
+			logo: {
+				src: './src/assets/favicon.png',
+			},
 			sidebar: [
 				{
 					label: 'Starting',
