@@ -5,4 +5,5 @@ description: Table of Contents | Unofficial BlossomCraft Crate & Item Documentat
 
 |     Crate/Chapter      |   link    |
 |:----------------------:|:---------:|
+|      Tier       |   [link](/tier/home/)    |
 |      ❀ LEGACY ❀       |   [link](/legacy/home/)    |
