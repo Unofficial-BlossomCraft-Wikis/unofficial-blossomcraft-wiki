@@ -8,7 +8,7 @@ the legacy crate, the first Blossom crate
 ## Purchase price
 $200,000 at `/warp KeyShop`
 
-## Item overview
+## Drop overview
 
 |          Item          |   chance  |
 |:----------------------:|:---------:|

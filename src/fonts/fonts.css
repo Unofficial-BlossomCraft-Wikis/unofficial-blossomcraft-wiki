@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Minecraft Font';
+	/* Use a relative path to the local font file in `url()`. */
+	src: url('./MinecraftRegular-Bmg3.otf') format('otf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

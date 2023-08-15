@@ -14,7 +14,7 @@ Lavawalking I (1)
 Unmodifiable
 ===================
 
-I guss you can walk on lava now
+I guess you can walk on lava now
 
 ===================
 ► Blossom Crate ◄

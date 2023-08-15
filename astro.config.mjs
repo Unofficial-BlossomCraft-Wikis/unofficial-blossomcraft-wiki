@@ -1,8 +1,11 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+const site = 'https://unofficial-blossomcraft-item-docs.altiesgamingstudios.com/';
+
 // https://astro.build/config
 export default defineConfig({
+	site,
 	integrations: [
 		starlight({
 			favicon: 'favicon.png',
@@ -10,6 +13,11 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/Alties-GamingYT/fan-blossomcraft-crate-docs',
 			},
+			customCss: [
+				// Relative path to your @font-face CSS file.
+				'./src/fonts/fonts.css',
+				'./src/styles/main.css',
+			],
 			sidebar: [
 				{
 					label: 'Starting',
@@ -17,6 +25,18 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Why and What?', link: '/starter/home/' },
 						{ label: 'Table of Contents', link: '/starter/table-of-contents/' },
+					],
+				},
+				{
+					label: 'Tier crates',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'The Tier Crates', link: '/tier/home/' },
+						{ label: 'Tier I (1) Crate', link: '/tier/t1/' },
+						{ label: 'Tier II (2) Crate', link: '/tier/t2/' },
+						{ label: 'Tier III (3) Crate', link: '/tier/t3/' },
+						{ label: 'Tier IV (4) Crate', link: '/tier/t4/' },
+						{ label: 'Tier V (5) Crate', link: '/tier/t5/' },
 					],
 				},
 				{
@@ -53,7 +73,6 @@ export default defineConfig({
 			],
 		}),
 	],
-
 	// Process images with sharp: https://docs.astro.build/en/guides/assets/#using-sharp
 	image: { service: { entrypoint: 'astro/assets/services/sharp' } },
 });
