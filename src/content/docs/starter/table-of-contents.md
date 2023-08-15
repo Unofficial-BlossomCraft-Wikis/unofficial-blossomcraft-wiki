@@ -6,4 +6,5 @@ description: Table of Contents | Unofficial BlossomCraft Crate & Item Documentat
 |     Crate/Chapter      |   link    |
 |:----------------------:|:---------:|
 |      Tier       |   [link](/tier/home/)    |
+|      Spawner       |   [link](/spawner/home/)    |
 |      ❀ LEGACY ❀       |   [link](/legacy/home/)    |
