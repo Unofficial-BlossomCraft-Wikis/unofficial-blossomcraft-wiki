@@ -4,9 +4,8 @@ description: ❀ Blossom Leggings ❀ Item | Unofficial BlossomCraft Crate & Ite
 ---
 ```
 ❀ Blossom Leggings ❀
-
-Fire Protection VI (6)
-Protection VI (6)
+Fire Protection VI
+Protection VI
 Blue Blossom Quadhelix Particles
 Endrod Trail Particles
 Unmodifiable
@@ -19,9 +18,9 @@ The Legendary Blossom Leggings
 Season 1: ❀ LEGACY ❀
 Rarity: MYTHIC
 
-Win Chance: 2%
 Unbreakable
 ```
+### Win Chance: 2%
 
 ##### item:
 `Netherite Leggings`

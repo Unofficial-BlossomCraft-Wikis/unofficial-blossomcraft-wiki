@@ -4,10 +4,9 @@ description: ❀ Blossom Sword ❀ Item | Unofficial BlossomCraft Crate & Item D
 ---
 ```
 ❀ Blossom Sword ❀
-
-Fire Aspect III (3)
-Looting III (3)
-Sharpness VIII (8)
+Fire Aspect III
+Looting III
+Sharpness VIII
 Blossom Particles
 Unmodifiable
 ===================
@@ -19,9 +18,9 @@ The Mythical Blossom Sword
 Season 1: ❀ LEGACY ❀
 Rarity: MYTHIC
 
-Win Chance: 2%
 Unbreakable
 ```
+### Win Chance: 2%
 
 ##### item:
 `Netherite Sword`

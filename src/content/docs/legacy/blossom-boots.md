@@ -4,10 +4,9 @@ description: ❀ Blossom Boots ❀ Item | Unofficial BlossomCraft Crate & Item D
 ---
 ```
 ❀ Blossom Boots ❀
-
-Feather Falling V (5)
-Protection VI (6)
-Soul Speed III (3)
+Feather Falling V
+Protection VI
+Soul Speed III
 Blossom trail Particles
 Unmodifiable
 ===================
@@ -19,9 +18,9 @@ The Fabled Blossom Boots
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Netherite Boots`

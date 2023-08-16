@@ -5,9 +5,9 @@ description: ❀ Dwarf Pick ❀ Item | Unofficial BlossomCraft Crate & Item Docu
 ```
 ❀ Dwarf Pick ❀
 
-Efficiency V (5)
-Fortune III (3)
-Tunnel II (2)
+Efficiency V
+Fortune III
+Tunnel II
 Unmodifiable
 ===================
 
@@ -19,9 +19,9 @@ This tool breaks blocks 5x faster than normal.
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Netherite Pickaxe`

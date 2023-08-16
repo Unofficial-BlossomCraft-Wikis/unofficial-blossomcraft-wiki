@@ -3,6 +3,12 @@ title: Why and What?
 description: Why and What? | Unofficial BlossomCraft Crate & Item Documentation
 ---
 
+:::caution
+this website is ***NOT*** up to date.
+
+we will be pushing updates every day ► every 3 days
+:::
+
 These documents have been created to help make seeing all of the amazing Blossom Items easier, this includes: 
 - crates
 - crate keys

@@ -4,7 +4,6 @@ description: Mini Me Pet Voucher | Unofficial BlossomCraft Crate & Item Document
 ---
 ```
 Mini Me Pet Voucher
-
 Voucher
 ===================
 
@@ -19,6 +18,6 @@ Season 1: ❀ LEGACY ❀
 Rarity: MYTHIC
 remaining use: 1
 
-Win Chance: 2%
 Unbreakable
 ```
+### Win Chance: 2%

@@ -4,7 +4,6 @@ description: Blossom Bee Pet Voucher | Unofficial BlossomCraft Crate & Item Docu
 ---
 ```
 Blossom Bee Pet Voucher
-
 Voucher
 ===================
 
@@ -19,6 +18,6 @@ Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 remaining use: 1
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%

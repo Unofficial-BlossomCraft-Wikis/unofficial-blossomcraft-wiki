@@ -4,10 +4,9 @@ description: ❀ Icarus Sword ❀ Item | Unofficial BlossomCraft Crate & Item Do
 ---
 ```
 ❀ Icarus Sword ❀
-
-Fire Aspect X (10)
-Looting III (3)
-Sharpness VI (6)
+Fire Aspect X
+Looting III
+Sharpness VI
 Lava Sword Particles
 Unmodifiable
 ===================
@@ -19,9 +18,9 @@ Burn your enemies with the power of the sun
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Golden Sword`

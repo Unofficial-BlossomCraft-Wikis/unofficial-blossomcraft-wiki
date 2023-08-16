@@ -4,8 +4,7 @@ description: ❀ Grapple Hook ❀ Item | Unofficial BlossomCraft Crate & Item Do
 ---
 ```
 ❀ Grapple Hook ❀
-
-Quick Charge III (3)
+Quick Charge III
 Unmodifiable
 ===================
 
@@ -19,9 +18,9 @@ as they eye can see.
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Crossbow`

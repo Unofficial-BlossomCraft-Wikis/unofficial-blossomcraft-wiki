@@ -4,10 +4,9 @@ description: ❀ Frostfire Gauntlet ❀ Item | Unofficial BlossomCraft Crate & I
 ---
 ```
 ❀ Frostfire Gauntlet ❀
-
-Fire Aspect III (3)
-Sharpness V (5)
-Ice Aspect III (3)
+Fire Aspect III
+Sharpness V
+Ice Aspect III
 Unmodifiable
 ===================
 
@@ -19,9 +18,9 @@ Enemies struct by this are slowed
 Season 1: ❀ LEGACY ❀
 Rarity: Rare
 
-Win Chance: 4%
 Unbreakable
 ```
+### Win Chance: 4%
 
 ##### item:
 `Packed Ice`

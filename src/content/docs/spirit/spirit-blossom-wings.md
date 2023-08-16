@@ -4,18 +4,20 @@ description: ❀ BLOSSOM WINGS ❀ Item | Unofficial BlossomCraft Crate & Item D
 ---
 ```
 ❀ BLOSSOM WINGS ❀
+
 Protection X
-Blossom Particles
-Endrod Particles
-Blossom Wing Particles
+Spirit Companion
+Soul Trail
+Spirit Blossom Wing Particles
 Unmodifiable
 ===================
 
-The one and only Blossom Wings
+Embrace the Spirits
+When worn gain Resistance
 
 ===================
 ► Blossom Crate ◄
-Season 1: ❀ LEGACY ❀
+Season 2: ❀ SPIRIT ❀
 Rarity: IMMORTAL
 
 Unbreakable

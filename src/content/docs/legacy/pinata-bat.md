@@ -4,7 +4,6 @@ description: ❀ Piñata Bat ❀ Item | Unofficial BlossomCraft Crate & Item Doc
 ---
 ```
 ❀ Piñata Bat ❀
-
 Unmodifiable
 ===================
 
@@ -17,9 +16,9 @@ Right-Click to swing and Left-Click to see your stats
 Season 1: ❀ LEGACY ❀
 Rarity: Rare
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Wooden Hoe`

@@ -4,9 +4,8 @@ description: ❀ Eclipse ❀ Item | Unofficial BlossomCraft Crate & Item Documen
 ---
 ```
 ❀ Eclipse ❀
-
-Fire Protection V (5)
-Protection III (3)
+Fire Protection V
+Protection III
 Flame Wing Particles
 Black Halo Particles
 Unmodifiable
@@ -19,9 +18,9 @@ Crafted and worn by Celestial Beings
 Season 1: ❀ LEGACY ❀
 Rarity: MYTHIC
 
-Win Chance: 2%
 Unbreakable
 ```
+### Win Chance: 2%
 
 ##### item:
 `Elytra`

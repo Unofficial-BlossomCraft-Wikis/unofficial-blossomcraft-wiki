@@ -3,6 +3,10 @@ import starlight from '@astrojs/starlight';
 
 const site = 'https://unofficial-blossomcraft-item-docs.altiesgamingstudios.com/';
 
+export const locales = {
+	root: { label: 'English', lang: 'en' },
+};
+
 // https://astro.build/config
 export default defineConfig({
 	site,
@@ -35,11 +39,11 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'The Tier Crates', link: '/tier/home/' },
-						{ label: 'Tier I (1) Crate', link: '/tier/t1/' },
-						{ label: 'Tier II (2) Crate', link: '/tier/t2/' },
-						{ label: 'Tier III (3) Crate', link: '/tier/t3/' },
-						{ label: 'Tier IV (4) Crate', link: '/tier/t4/' },
-						{ label: 'Tier V (5) Crate', link: '/tier/t5/' },
+						{ label: 'Tier I Crate', link: '/tier/t1/' },
+						{ label: 'Tier II Crate', link: '/tier/t2/' },
+						{ label: 'Tier III Crate', link: '/tier/t3/' },
+						{ label: 'Tier IV Crate', link: '/tier/t4/' },
+						{ label: 'Tier V Crate', link: '/tier/t5/' },
 					],
 				},
 				{
@@ -50,7 +54,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: '❀ LEGACY ❀ Crate',
+					label: 'Season 1: ❀ LEGACY ❀ Crate',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'The ❀ LEGACY ❀ crate', link: '/legacy/home/'},
@@ -78,6 +82,39 @@ export default defineConfig({
 						{ label: 'Mini Me Pet Voucher', link: '/legacy/mini-me-pet-voucher/'},
 						{ label: 'Red Panda Pet Voucher', link: '/legacy/red-panda-pet-voucher/'},
 						{ label: '❀ BLOSSOM WINGS ❀', link: '/legacy/blossom-wings/'},
+					],
+				},
+				{
+					label: 'Season 2: ❀ SPIRIT ❀ Crate',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'The ❀ SPIRIT ❀ crate', link: '/spirit/home/'},
+						{ label: "❀ Kage's Lucky Pick ❀", link: '/spirit/kages-lucky-pick/'},
+						{ label: '❀ Magic Mirror ❀', link: '/spirit/magic-mirror/'},
+						{ label: '❀ Big Book of Bad Jokes ❀', link: '/spirit/big-book-of-bad-jokes/'},
+						{ label: '❀ Kraken Slayer ❀', link: '/spirit/kraken-slayer/'},
+						{ label: '❀ Chpsys Bath Water ❀', link: '/spirit/chpsys-bath-water/'},
+						{ label: '❀ Legions Bath Water ❀', link: '/spirit/legions-bath-water/'},
+						{ label: '❀ Mystical Cookie ❀', link: '/spirit/mystical-cookie/'},
+						{ label: '❀ Infinite Milk Bucket ❀', link: '/spirit/infinite-milk-bucket/'},
+						{ label: '❀ Pocket Drill ❀', link: '/spirit/pocket-drill/'},
+						{ label: '❀ Ex-Bow-Sive ❀', link: '/spirit/ex-bow-sive/'},
+						{ label: '❀ Rage Axe ❀', link: '/spirit/rage-axe/'},
+						{ label: '❀ Medusas Head ❀', link: '/spirit/medusas-head/'},
+						{ label: '❀ Spirit Blossom Helmet ❀', link: '/spirit/spirit-blossom-helmet/'},
+						{ label: '❀ Spirit Blossom Leggings ❀', link: '/spirit/spirit-blossom-leggings/'},
+						{ label: '❀ Spirit Blossom Boots ❀', link: '/spirit/spirit-blossom-boots/'},
+						{ label: '❀ Unbreakable Tool Set ❀', link: '/spirit/unbreakable-tool-set/'},
+						{ label: '❀ Broken Blade ❀', link: '/spirit/broken-blade/'},
+						{ label: '❀ ThunderLords Trident ❀', link: '/spirit/thunderlords-trident/'},
+						{ label: '❀ The Ender Sword ❀', link: '/spirit/the-ender-sword/'},
+						{ label: '❀ Herobrines Pickaxe ❀', link: '/spirit/herobrines-pickaxe/'},
+						{ label: '❀ Spirit Blossom Chestplate ❀r', link: '/spirit/spirit-blossom-chestplate/'},
+						{ label: 'Baby Yoda Pet Voucher', link: '/spirit/baby-yoda-pet-voucher/'},
+						{ label: 'CART-ME Pet Voucher', link: '/spirit/cart-me-pet-voucher/'},
+						{ label: '❀ AZAKANA ❀', link: '/spirit/azakana/'},
+						{ label: '❀ STEEL TEMPEST ❀', link: '/spirit/steel-tempest/'},
+						{ label: '❀ SPIRIT BLOSSOM WINGS ❀', link: '/spirit/spirit-blossom-wings/'},
 					],
 				},
 			],

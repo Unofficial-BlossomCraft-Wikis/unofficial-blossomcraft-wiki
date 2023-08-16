@@ -4,7 +4,6 @@ description: ❀ Unbreakable Armour Set ❀ Item | Unofficial BlossomCraft Crate
 ---
 ```
 ❀ Unbreakable Armour Set ❀
-
 Unbreakable Helmet x1
 Unbreakable Chestplate x1
 Unbreakable Leggings x1
@@ -18,9 +17,9 @@ The armor that never dulls.
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ### items:
 - `shulker`

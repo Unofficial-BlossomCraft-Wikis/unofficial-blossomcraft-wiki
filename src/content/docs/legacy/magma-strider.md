@@ -5,12 +5,12 @@ description: ❀ Magma Strider ❀ Item | Unofficial BlossomCraft Crate & Item D
 ```
 ❀ Magma Strider ❀
 
-Depth Strider III (3)
-Feather Falling IV (4)
-Protection IV (4)
-Soul Speed III (3)
+Depth Strider III
+Feather Falling IV
+Protection IV
+Soul Speed III
 Dyed
-Lavawalking I (1)
+Lavawalking I
 Unmodifiable
 ===================
 
@@ -21,9 +21,9 @@ I guess you can walk on lava now
 Season 1: ❀ LEGACY ❀
 Rarity: Rare
 
-Win Chance: 4%
 Unbreakable
 ```
+### Win Chance: 4%
 
 ##### item:
 `dyed leather boots`

@@ -4,10 +4,9 @@ description: ❀ The Repeater ❀ Item | Unofficial BlossomCraft Crate & Item Do
 ---
 ```
 ❀ The Repeater ❀
-
 Multishot
-Power II (2)
-Quick Charge V (5)
+Power II
+Quick Charge V
 Unmodifiable
 ===================
 
@@ -19,9 +18,9 @@ time before the enemy can draw ther blade.
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Crossbow`

@@ -4,12 +4,11 @@ description: ❀ The Kings Crown ❀ Item | Unofficial BlossomCraft Crate & Item
 ---
 ```
 ❀ The Kings Crown ❀
-
 Aqua Affinity
-Protection IV (4)
-Respiration III (3)
-Thorns III (3)
-Satuation III (3)
+Protection IV
+Respiration III
+Thorns III
+Satuation III
 Unmodifiable
 ===================
 
@@ -21,9 +20,9 @@ The user is grantede saturation regeneration.
 Season 1: ❀ LEGACY ❀
 Rarity: Rare
 
-Win Chance: 6%
 Unbreakable
 ```
+### Win Chance: 6%
 
 ##### item:
 `Golden helment`

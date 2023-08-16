@@ -4,13 +4,12 @@ description: ❀ Running Shoes ❀ Item | Unofficial BlossomCraft Crate & Item D
 ---
 ```
 ❀ Running Shoes ❀
-
-Depth Strider III (3)
-Feather Falling IV (4)
-Protection IV (4)
-Soul Speed III (3)
+Depth Strider III
+Feather Falling IV
+Protection IV
+Soul Speed III
 Dyed
-Speed II (2)
+Speed II
 Unmodifiable
 ===================
 
@@ -21,9 +20,9 @@ Almost the fastest man alive
 Season 1: ❀ LEGACY ❀
 Rarity: Rare
 
-Win Chance: 4%
 Unbreakable
 ```
+### Win Chance: 4%
 
 ##### item:
 `dyed leather boots`

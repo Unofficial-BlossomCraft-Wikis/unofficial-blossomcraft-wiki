@@ -4,11 +4,10 @@ description: ❀ Blossom Helmet ❀ Item | Unofficial BlossomCraft Crate & Item 
 ---
 ```
 ❀ Blossom Helmet ❀
-
 Aqua Affinity
-Blast Protection VI (6)
-Protection VI (6)
-Respiration III (3)
+Blast Protection VI
+Protection VI
+Respiration III
 Blossom Overhead Particles
 Unmodifiable
 ===================
@@ -20,9 +19,9 @@ The Glorious Blossom Helmet
 Season 1: ❀ LEGACY ❀
 Rarity: LEGENDARY
 
-Win Chance: 3%
 Unbreakable
 ```
+### Win Chance: 3%
 
 ##### item:
 `Netherite Helment`

@@ -4,11 +4,10 @@ description: ❀ Levitation Boots ❀ Item | Unofficial BlossomCraft Crate & Ite
 ---
 ```
 ❀ Levitation Boots ❀
-
-Depth Strider III (3)
-Protection IV (4)
+Depth Strider III
+Protection IV
 Dyed
-Levitation II (2)
+Levitation II
 Unmodifiable
 ===================
 
@@ -19,9 +18,9 @@ Unmodifiable
 Season 1: ❀ LEGACY ❀
 Rarity: Rare
 
-Win Chance: 4%
 Unbreakable
 ```
+### Win Chance: 4%
 
 ##### item:
 `dyed leather boots`

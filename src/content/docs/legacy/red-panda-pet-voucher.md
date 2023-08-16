@@ -4,7 +4,6 @@ description: Red Panda Pet Voucher | Unofficial BlossomCraft Crate & Item Docume
 ---
 ```
 Red Panda Pet Voucher
-
 Voucher
 ===================
 
@@ -19,6 +18,6 @@ Season 1: ❀ LEGACY ❀
 Rarity: MYTHIC
 remaining use: 1
 
-Win Chance: 2%
 Unbreakable
 ```
+### Win Chance: 2%
