@@ -1,6 +1,7 @@
 ---
 title: ❀ Levitation Boots ❀
 description: ❀ Levitation Boots ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 ```
 ❀ Levitation Boots ❀
