@@ -17,6 +17,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/Alties-GamingYT/fan-blossomcraft-item-docs',
 			},
+			editLink: {
+				baseUrl: 'https://github.com/Alties-GamingYT/fan-blossomcraft-item-docs/edit/main/',
+			},
 			customCss: [
 				// Relative path to your @font-face CSS file.
 				'./src/fonts/fonts.css',
@@ -25,6 +28,7 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/favicon.png',
 			},
+			locales,
 			sidebar: [
 				{
 					label: 'Starting',
@@ -116,6 +120,7 @@ export default defineConfig({
 						{ label: '❀ STEEL TEMPEST ❀', link: '/spirit/steel-tempest/'},
 						{ label: '❀ SPIRIT BLOSSOM WINGS ❀', link: '/spirit/spirit-blossom-wings/'},
 					],
+					lastUpdated: true,
 				},
 			],
 		}),
