@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-const site = 'https://unofficial-blossomcraft-item-docs.altiesgamingstudios.com/';
+const site = 'https://unofficial-blossomcraft-item-wiki.altiesgamingstudios.com';
 
 export const locales = {
 	root: { label: 'English', lang: 'en' },
@@ -13,7 +13,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			favicon: 'favicon.png',
-			title: 'Unofficial BlossomCraft Crate & Item Documentation',
+			title: 'Unofficial BlossomCraft Crate & Item Wiki',
 			social: {
 				github: 'https://github.com/Alties-GamingYT/fan-blossomcraft-item-docs',
 			},
