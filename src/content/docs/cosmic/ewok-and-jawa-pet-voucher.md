@@ -1,9 +1,9 @@
 ---
-title: Baby Yoda Pet Voucher
-description: Baby Yoda Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
+title: Ewok and Jawa Pet Voucher
+description: Ewok and Jawa Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
 ---
 ```
-Baby Yoda Pet Voucher
+Ewok and Jawa Pet Voucher
 Voucher
 ===================
 

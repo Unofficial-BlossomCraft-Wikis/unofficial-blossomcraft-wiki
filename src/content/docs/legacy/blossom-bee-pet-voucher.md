@@ -1,7 +1,6 @@
 ---
 title: Blossom Bee Pet Voucher
 description: Blossom Bee Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 ```
 Blossom Bee Pet Voucher

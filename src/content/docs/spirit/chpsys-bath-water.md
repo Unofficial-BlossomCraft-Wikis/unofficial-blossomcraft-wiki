@@ -1,7 +1,6 @@
 ---
 title: ❀ Chpsys Bath Water ❀
 description: ❀ Chpsys Bath Water ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 ```
 ❀ Chpsys Bath Water ❀

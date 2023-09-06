@@ -1,7 +1,6 @@
 ---
 title: Mini Me Pet Voucher
 description: Mini Me Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 ```
 Mini Me Pet Voucher

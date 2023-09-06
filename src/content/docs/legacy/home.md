@@ -1,7 +1,8 @@
 ---
 title: ❀ LEGACY ❀ crate
 description: ❀ LEGACY ❀ crate | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
+sidebar:
+  hidden: true
 ---
 
 the legacy crate, the first Blossom crate

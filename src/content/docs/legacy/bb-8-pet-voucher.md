@@ -1,7 +1,6 @@
 ---
 title: BB-8 Pet Voucher
 description: BB-8 Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 ```
 BB-8 Pet Voucher

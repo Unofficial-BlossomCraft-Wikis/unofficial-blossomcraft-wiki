@@ -1,13 +1,12 @@
 ---
 title: Why and What?
 description: Why and What? | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 
 :::caution
 this website is ***NOT*** up to date.
 
-we will be pushing updates every day ► every 3 days
+we will be pushing updates every 3 days ► every week
 :::
 
 These documents have been created to help make seeing all of the amazing Blossom Items easier, this includes: 

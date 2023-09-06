@@ -1,7 +1,6 @@
 ---
 title: Table of Contents
 description: Table of Contents | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:56:00.0 -6
 ---
 
 :::caution

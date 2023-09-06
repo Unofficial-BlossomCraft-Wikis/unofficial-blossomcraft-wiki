@@ -1,7 +1,6 @@
 ---
 title: Tier crates
 description: Tier crates | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 
 The Tier crates, the most common crates to open.

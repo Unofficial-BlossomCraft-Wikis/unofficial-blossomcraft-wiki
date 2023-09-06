@@ -1,7 +1,6 @@
 ---
 title: ❀ Unbreakable Tool Set ❀
 description: ❀ Unbreakable Tool Set ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
-lastUpdated: 2023-08-19 1:45:00.0 -6
 ---
 ```
 ❀ Unbreakable Tool Set ❀
