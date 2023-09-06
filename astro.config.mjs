@@ -15,10 +15,10 @@ export default defineConfig({
 			favicon: 'favicon.png',
 			title: 'Unofficial BlossomCraft Crate & Item Wiki',
 			social: {
-				github: 'https://github.com/Alties-GamingYT/fan-blossomcraft-item-docs',
+				github: 'https://github.com/Unofficial-BlossomCraft-Wikis/fan-blossomcraft-item-docs',
 			},
 			editLink: {
-				baseUrl: 'https://github.com/Alties-GamingYT/fan-blossomcraft-item-docs/edit/main/',
+				baseUrl: 'https://github.com/Unofficial-BlossomCraft-Wikis/fan-blossomcraft-item-docs/edit/main/',
 			},
 			customCss: [
 				// Relative path to your @font-face CSS file.
