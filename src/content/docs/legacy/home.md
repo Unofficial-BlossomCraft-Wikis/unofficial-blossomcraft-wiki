@@ -8,7 +8,7 @@ sidebar:
 the legacy crate, the first Blossom crate
 
 ## Purchase price
-$200,000 at `/warp KeyShop`
+$145,000 at `/warp KeyShop`
 
 ## Drop overview
 
