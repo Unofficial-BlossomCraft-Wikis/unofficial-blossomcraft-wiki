@@ -41,6 +41,9 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Key Shop', link: '/key-shop/home/',
+				},
+				{
 					label: 'Tier crates',
 					collapsed: true,
 					items: [

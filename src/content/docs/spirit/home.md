@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## Purchase price
-$200,000 at `/warp KeyShop`
+$140,000 at `/warp KeyShop`
 
 ## Drop overview
 
