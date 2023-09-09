@@ -1,6 +1,6 @@
 ---
-title: Spawner Crate
-description: Spawner Crate | Unofficial BlossomCraft Crate & Item Documentation
+title: key shop
+description: key shop | Unofficial BlossomCraft Crate & Item Documentation
 ---
 
 The Tier crates, the most common crates to open.
