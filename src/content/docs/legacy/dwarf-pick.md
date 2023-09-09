@@ -21,7 +21,7 @@ Rarity: LEGENDARY
 
 Unbreakable
 ```
-### Win Chance: 3%
+### Win Chance: 2%
 
 ##### item:
 `Netherite Pickaxe`

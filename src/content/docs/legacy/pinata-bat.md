@@ -2,6 +2,9 @@
 title: ❀ Piñata Bat ❀
 description: ❀ Piñata Bat ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
 ---
+:::caution
+this item has been disabled
+:::
 ```
 ❀ Piñata Bat ❀
 Unmodifiable
@@ -18,7 +21,7 @@ Rarity: Rare
 
 Unbreakable
 ```
-### Win Chance: 3%
+### Win Chance: 0%
 
 ##### item:
 `Wooden Hoe`
