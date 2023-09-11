@@ -9,5 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "05:30"
+      timezone: "America/Denver"
     commit-message:
       prefix: "npm"
