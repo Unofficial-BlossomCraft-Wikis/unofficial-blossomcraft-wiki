@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-const site = 'https://unofficial-blossomcraft-item-wiki.pages.dev';
+const site = 'https://blossomcraft.dovahkiin.xyz';
 
 export const locales = {
 	root: { label: 'English', lang: 'en' },
