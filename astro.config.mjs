@@ -154,7 +154,7 @@ export default defineConfig({
 					{
 						label: 'Season 10: CONSTELLATION Crate',
 						collapsed: true,
-						badge: 'New',
+						badge: { text: 'Newest', variant: 'danger' },
 						items: [
 							{ label: 'The CONSTELLATION Crate', link: '/constellation/home/' },
 							{
@@ -207,7 +207,10 @@ export default defineConfig({
 					},
 				],
 			},
-			],
+			{
+				label: 'Anniversary Crate', link: '/anniversary/home/', badge: { text: 'Year 3!', variant: 'danger' },
+			},
+		],
 		}),
 	],
 	// Process images with sharp: https://docs.astro.build/en/guides/assets/#using-sharp

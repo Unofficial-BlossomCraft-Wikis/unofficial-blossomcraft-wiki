@@ -54,4 +54,4 @@ $100,000 at `/warp KeyShop`
 
 ## Key Item
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
-<model-viewer alt="bow_blue" src="/Assets/constellation/3D/toffy_key_blue.gltf" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;" camera-orbit="90deg 55deg 4m"></model-viewer>
+<model-viewer alt="bow_blue" src="/Assets/constellation/3D/toffy_key_blue.gltf" shadow-intensity="1" autoplay camera-controls touch-action="pan-y" style="width: 100%; height: 500px;" camera-orbit="90deg 55deg 4m"></model-viewer>
