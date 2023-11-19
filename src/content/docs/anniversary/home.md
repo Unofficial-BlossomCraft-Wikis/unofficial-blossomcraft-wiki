@@ -4,13 +4,14 @@ description: Anniversary | Unofficial BlossomCraft Crate & Item Documentation
 ---
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
 
-### BlossomCraft Shop [^1]
-- ~~9.95~~ 7.46 USD | 1 Anniversary Key
-- ~~39.95~~ 29.96 USD | 5 Anniversary Key
-- ~~69.95~~ 52.46 USD | 10 Anniversary Key + FREE ANNIVERSARY VOUCHER
+### How to get the key:
+- [X] buyable (on [blossomcraft's store](https://shop.blossomcraft.org/))
+  - ~~9.95~~ 7.46 USD | 1 Anniversary Key
+  - ~~39.95~~ 29.96 USD | 5 Anniversary Key
+  - ~~69.95~~ 52.46 USD | 10 Anniversary Key + FREE ANNIVERSARY VOUCHER
+- [ ] obtainable (in game)
 
-----
-## key overview
+### key overview
 Iteration: year 3
 |          Item          |   chance  |
 |:----------------------:|:---------:|
@@ -42,11 +43,11 @@ Iteration: year 3
 |    `Community Key Vol 3`   | 3% chance |
 |    `✦ BLOSSOM CROWN ✦`   | 0.1% chance |
 
-## Key Item [^2]
+### Key Item [^2]
 <!-- <img src="/Assets/constellation/imgs/andromeda_blade.png" style="width: 100%;"> -->
 <model-viewer alt="tripwire_hook" src="/Assets/Minecraft/3D/tripwire_hook.gltf" shadow-intensity="1" autoplay camera-controls touch-action="pan-y" style="width: 100%; height: 500px;" camera-orbit="180deg 55deg 4m"></model-viewer>
 
-## Items
+## Contents
 ### Blossom Key - ❀ LEGACY ❀
 <img src="/Assets/anniversary/imgs/legacy.png" style="width: 100%;">
 <model-viewer alt="tripwire_hook" src="/Assets/Minecraft/3D/tripwire_hook.gltf" shadow-intensity="1" autoplay camera-controls touch-action="pan-y" style="width: 100%; height: 500px;" camera-orbit="180deg 55deg 4m"></model-viewer>

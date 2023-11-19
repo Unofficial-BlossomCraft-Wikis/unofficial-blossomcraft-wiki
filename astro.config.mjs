@@ -210,6 +210,14 @@ export default defineConfig({
 			{
 				label: 'Anniversary Crate', link: '/anniversary/home/', badge: { text: 'Year 3!', variant: 'danger' },
 			},
+			{
+				label: 'Dungeons',
+				collapsed: true,
+				badge: { text: 'New', variant: 'tip' },
+				items: [
+					{ label: 'Akuma’s Citadel', link: '/akumas_citadel/home/' },
+				],
+			},
 		],
 		}),
 	],
