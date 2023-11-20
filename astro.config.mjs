@@ -208,7 +208,7 @@ export default defineConfig({
 				],
 			},
 			{
-				label: 'Anniversary Crate', link: '/anniversary/home/', badge: { text: 'Year 3!', variant: 'danger' },
+				label: 'Anniversary Crate', link: '/anniversary/home/', badge: { text: 'Year 3', variant: 'danger' },
 			},
 			{
 				label: 'Dungeons',
