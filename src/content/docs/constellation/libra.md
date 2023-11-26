@@ -1,6 +1,6 @@
 ---
 title: ✦ Libra ✦
-description: ✦ Libra ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Libra ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/libra.png" style="width: 100%;">
 

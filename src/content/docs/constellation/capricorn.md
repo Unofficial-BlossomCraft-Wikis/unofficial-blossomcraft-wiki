@@ -1,6 +1,6 @@
 ---
 title: ✦ Capricorn ✦
-description: ✦ Capricorn ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Capricorn ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/capricorn.png" style="width: 100%;">
 

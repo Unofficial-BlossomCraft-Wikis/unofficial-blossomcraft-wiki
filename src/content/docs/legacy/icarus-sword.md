@@ -1,6 +1,6 @@
 ---
 title: ❀ Icarus Sword ❀
-description: ❀ Icarus Sword ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Icarus Sword ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Icarus Sword ❀

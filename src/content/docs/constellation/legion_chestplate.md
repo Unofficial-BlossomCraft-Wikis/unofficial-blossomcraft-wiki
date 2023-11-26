@@ -1,6 +1,6 @@
 ---
 title: ✦ LEGION CHESTPLATE ✦
-description: ✦ LEGION CHESTPLATE ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ LEGION CHESTPLATE ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/legion_chestplate.png" style="width: 100%;">
 

@@ -1,6 +1,6 @@
 ---
 title: ❀ Pleiades' Luminous Locket ❀
-description: ❀ Pleiades' Luminous Locket ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Pleiades' Luminous Locket ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/pleiades_luminous_locket.png" style="width: 100%;">
 

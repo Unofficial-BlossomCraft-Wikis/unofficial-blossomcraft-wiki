@@ -1,6 +1,6 @@
 ---
 title: ✦ Leo ✦
-description: ✦ Leo ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Leo ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/leo.png" style="width: 100%;">
 

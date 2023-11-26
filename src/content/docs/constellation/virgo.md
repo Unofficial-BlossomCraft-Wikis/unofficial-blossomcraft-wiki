@@ -1,6 +1,6 @@
 ---
 title: ✦ Virgo ✦
-description: ✦ Virgo ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Virgo ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/virgo.png" style="width: 100%;">
 

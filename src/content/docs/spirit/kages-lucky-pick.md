@@ -1,6 +1,6 @@
 ---
 title: ❀ Kage's Lucky Pick ❀
-description: ❀ Kage's Lucky Pick ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Kage's Lucky Pick ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Kage's Lucky Pick ❀

@@ -1,6 +1,6 @@
 ---
 title: ❀ Legions Bath Water ❀
-description: ❀ Legions Bath Water ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Legions Bath Water ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Legions Bath Water ❀

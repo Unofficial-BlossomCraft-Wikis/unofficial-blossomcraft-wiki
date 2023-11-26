@@ -1,6 +1,6 @@
 ---
 title: ✦ LEGION HELMET ✦
-description: ✦ LEGION HELMET ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ LEGION HELMET ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/legion_helmet.png" style="width: 100%;">
 

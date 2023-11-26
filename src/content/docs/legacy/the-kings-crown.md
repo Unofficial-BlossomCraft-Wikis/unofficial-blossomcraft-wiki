@@ -1,6 +1,6 @@
 ---
 title: ❀ The Kings Crown ❀
-description: ❀ The Kings Crown ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ The Kings Crown ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ The Kings Crown ❀

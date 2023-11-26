@@ -1,6 +1,6 @@
 ---
 title: ❀ LEGACY ❀ crate
-description: ❀ LEGACY ❀ crate | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ LEGACY ❀ crate | Unofficial BlossomCraft Wiki
 sidebar:
   hidden: true
 ---

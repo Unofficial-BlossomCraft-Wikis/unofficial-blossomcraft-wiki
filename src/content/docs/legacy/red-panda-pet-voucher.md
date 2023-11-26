@@ -1,6 +1,6 @@
 ---
 title: Red Panda Pet Voucher
-description: Red Panda Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
+description: Red Panda Pet Voucher | Unofficial BlossomCraft Wiki
 ---
 ```
 Red Panda Pet Voucher

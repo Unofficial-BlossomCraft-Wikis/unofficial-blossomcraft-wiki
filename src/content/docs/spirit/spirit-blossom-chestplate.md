@@ -1,6 +1,6 @@
 ---
 title: ❀ Spirit Blossom Chestplate ❀
-description: ❀ Spirit Blossom Chestplate ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Spirit Blossom Chestplate ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Spirit Blossom Chestplate ❀

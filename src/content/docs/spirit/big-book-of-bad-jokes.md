@@ -1,6 +1,6 @@
 ---
 title: ❀ Big Book of Bad Jokes ❀
-description: ❀ Big Book of Bad Jokes ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Big Book of Bad Jokes ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Big Book of Bad Jokes ❀

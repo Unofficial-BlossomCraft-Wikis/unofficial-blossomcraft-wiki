@@ -1,6 +1,6 @@
 ---
 title: ❀ The Repeater ❀
-description: ❀ The Repeater ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ The Repeater ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ The Repeater ❀

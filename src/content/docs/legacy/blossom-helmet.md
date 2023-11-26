@@ -1,6 +1,6 @@
 ---
 title: ❀ Blossom Helmet ❀
-description: ❀ Blossom Helmet ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Blossom Helmet ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Blossom Helmet ❀

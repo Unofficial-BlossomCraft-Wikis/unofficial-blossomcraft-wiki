@@ -1,6 +1,6 @@
 ---
 title: ❀ Celestial Ascender ❀
-description: ❀ Celestial Ascender ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Celestial Ascender ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/celestial_ascender.png" style="width: 100%;">
 

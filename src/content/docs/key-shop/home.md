@@ -1,6 +1,6 @@
 ---
 title: key shop
-description: key shop | Unofficial BlossomCraft Crate & Item Documentation
+description: key shop | Unofficial BlossomCraft Wiki
 ---
 ## Location
 ```/warp KeyShop```

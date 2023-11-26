@@ -1,6 +1,6 @@
 ---
 title: ❀ Unbreakable Armour Set ❀
-description: ❀ Unbreakable Armour Set ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Unbreakable Armour Set ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Unbreakable Armour Set ❀

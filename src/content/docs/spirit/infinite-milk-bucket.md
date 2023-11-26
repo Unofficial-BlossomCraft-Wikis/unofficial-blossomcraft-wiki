@@ -1,6 +1,6 @@
 ---
 title: ❀ Infinite Milk Bucket ❀
-description: ❀ Infinite Milk Bucket ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Infinite Milk Bucket ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Infinite Milk Bucket ❀

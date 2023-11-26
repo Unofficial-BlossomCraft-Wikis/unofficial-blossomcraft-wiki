@@ -1,6 +1,6 @@
 ---
 title: ✦ LEGION LEGGINGS ✦
-description: ✦ LEGION LEGGINGS ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ LEGION LEGGINGS ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/legion_leggings.png" style="width: 100%;">
 

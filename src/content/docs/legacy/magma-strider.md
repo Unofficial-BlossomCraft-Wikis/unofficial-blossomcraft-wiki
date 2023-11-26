@@ -1,6 +1,6 @@
 ---
 title: ❀ Magma Strider ❀
-description: ❀ Magma Strider ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Magma Strider ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Magma Strider ❀

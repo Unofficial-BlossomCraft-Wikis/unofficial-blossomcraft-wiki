@@ -1,6 +1,6 @@
 ---
 title: ❀ Rage Axe ❀
-description: ❀ Rage Axe ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Rage Axe ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Rage Axe ❀

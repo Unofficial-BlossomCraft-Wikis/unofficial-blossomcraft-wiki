@@ -1,6 +1,6 @@
 ---
 title: ❀ The Ender Sword ❀
-description: ❀ The Ender Sword ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ The Ender Sword ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ The Ender Sword ❀

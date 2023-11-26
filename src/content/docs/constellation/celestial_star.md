@@ -1,6 +1,6 @@
 ---
 title: ✦ CELESTIAL STAR ✦
-description: ✦ CELESTIAL STAR ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ CELESTIAL STAR ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/celestial_star.png" style="width: 100%;">
 

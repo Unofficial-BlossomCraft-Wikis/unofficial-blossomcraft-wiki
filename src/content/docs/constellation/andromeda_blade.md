@@ -1,6 +1,6 @@
 ---
 title: ✦ ANDROMEDA BLADE ✦
-description: ✦ ANDROMEDA BLADE ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ ANDROMEDA BLADE ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/andromeda_blade.png" style="width: 100%;">
 

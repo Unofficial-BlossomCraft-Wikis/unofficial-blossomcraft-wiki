@@ -1,6 +1,6 @@
 ---
 title: ❀ Dwarf Pick ❀
-description: ❀ Dwarf Pick ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Dwarf Pick ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Dwarf Pick ❀

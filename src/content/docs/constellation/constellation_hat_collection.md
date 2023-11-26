@@ -1,6 +1,6 @@
 ---
 title: ❀ Constellation Hat Collection ❀
-description: ❀ Constellation Hat Collection ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Constellation Hat Collection ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/constellation_hat_collection.png" style="width: 100%;">
 

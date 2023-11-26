@@ -1,6 +1,6 @@
 ---
 title: ❀ Spirit Blossom Boots ❀
-description: ❀ Spirit Blossom Boots ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Spirit Blossom Boots ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Spirit Blossom Boots ❀

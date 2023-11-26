@@ -1,6 +1,6 @@
 ---
 title: ❀ Sniffer Disguise ❀
-description: ❀ Sniffer Disguise ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Sniffer Disguise ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/sniffer_disguise.png" style="width: 100%;">
 

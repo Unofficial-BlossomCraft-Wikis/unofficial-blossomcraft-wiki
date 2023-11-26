@@ -1,6 +1,6 @@
 ---
 title: ❀ Blossom Chestplate ❀
-description: ❀ Blossom Chestplate ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Blossom Chestplate ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Blossom Chestplate ❀

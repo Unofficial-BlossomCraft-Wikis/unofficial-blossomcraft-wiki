@@ -1,6 +1,6 @@
 ---
 title: ✦ Scorpio ✦
-description: ✦ Scorpio ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Scorpio ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <!-- Fix capitolization of 'scorpio' -->
 <img src="/Assets/constellation/imgs/Scorpio.png" style="width: 100%;">

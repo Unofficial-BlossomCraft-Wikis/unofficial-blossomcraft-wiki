@@ -1,6 +1,6 @@
 ---
 title: ❀ Spirit Blossom Helmet ❀
-description: ❀ Spirit Blossom Helmet ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Spirit Blossom Helmet ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Spirit Blossom Helmet ❀

@@ -1,6 +1,6 @@
 ---
 title: Akuma’s Citadel
-description: Akuma’s Citadel | Unofficial BlossomCraft Crate & Item Documentation
+description: Akuma’s Citadel | Unofficial BlossomCraft Wiki
 ---
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
 > to find info on the dungeon it's self, please go the the the offical wiki:

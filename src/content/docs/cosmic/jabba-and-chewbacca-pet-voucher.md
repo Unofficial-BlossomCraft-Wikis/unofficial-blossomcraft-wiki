@@ -1,6 +1,6 @@
 ---
 title: Baby Yoda Pet Voucher
-description: Baby Yoda Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
+description: Baby Yoda Pet Voucher | Unofficial BlossomCraft Wiki
 ---
 ```
 Baby Yoda Pet Voucher

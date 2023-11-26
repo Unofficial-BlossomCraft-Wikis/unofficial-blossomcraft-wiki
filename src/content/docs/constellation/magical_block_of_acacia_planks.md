@@ -1,6 +1,6 @@
 ---
 title: ❀ Magical Block of Acacia Planks ❀
-description: ❀ Magical Block of Acacia Planks ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Magical Block of Acacia Planks ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/magical_block_of_acacia_planks.png" style="width: 100%;">
 

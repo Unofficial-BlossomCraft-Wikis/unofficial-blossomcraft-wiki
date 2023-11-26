@@ -1,6 +1,6 @@
 ---
 title: ✦ BLOSSOM PICKAXE ✦
-description: ✦ BLOSSOM PICKAXE ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ BLOSSOM PICKAXE ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/blossom_pickaxe.png" style="width: 100%;">
 

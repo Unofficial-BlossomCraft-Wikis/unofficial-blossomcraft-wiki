@@ -1,6 +1,6 @@
 ---
 title: ✦ Taurus ✦
-description: ✦ Taurus ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Taurus ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/taurus.png" style="width: 100%;">
 

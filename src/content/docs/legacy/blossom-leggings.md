@@ -1,6 +1,6 @@
 ---
 title: ❀ Blossom Leggings ❀
-description: ❀ Blossom Leggings ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Blossom Leggings ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Blossom Leggings ❀

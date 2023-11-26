@@ -1,6 +1,6 @@
 ---
 title: ✦ Sagittarius ✦
-description: ✦ Sagittarius ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Sagittarius ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/sagittarius.png" style="width: 100%;">
 

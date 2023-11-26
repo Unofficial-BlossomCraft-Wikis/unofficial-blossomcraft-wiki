@@ -1,6 +1,6 @@
 ---
 title: ❀ Knockback Fish ❀
-description: ❀ Knockback Fish ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Knockback Fish ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Knockback Fish ❀

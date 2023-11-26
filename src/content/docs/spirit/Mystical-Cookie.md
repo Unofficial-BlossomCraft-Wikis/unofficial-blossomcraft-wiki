@@ -1,6 +1,6 @@
 ---
 title: ❀ Mystical Cookie ❀
-description: ❀ Mystical Cookie ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Mystical Cookie ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Mystical Cookie ❀

@@ -1,6 +1,6 @@
 ---
 title: ❀ AZAKANA ❀
-description: ❀ AZAKANA ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ AZAKANA ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ AZAKANA ❀

@@ -1,6 +1,6 @@
 ---
 title: ❀ Cassiopeia's Boots ❀
-description: ❀ Cassiopeia's Boots ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Cassiopeia's Boots ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/cassiopeias_boots.png" style="width: 100%;">
 

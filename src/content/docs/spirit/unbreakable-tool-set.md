@@ -1,6 +1,6 @@
 ---
 title: ❀ Unbreakable Tool Set ❀
-description: ❀ Unbreakable Tool Set ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Unbreakable Tool Set ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Unbreakable Tool Set ❀

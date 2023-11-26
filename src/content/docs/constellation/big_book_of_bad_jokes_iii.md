@@ -1,6 +1,6 @@
 ---
 title: ❀ Big Book of Bad Jokes III ❀
-description: ❀ Big Book of Bad Jokes III ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Big Book of Bad Jokes III ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/big_book_of_bad_jokes_iii.png" style="width: 100%;">
 

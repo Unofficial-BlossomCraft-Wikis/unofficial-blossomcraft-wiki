@@ -39,6 +39,9 @@ export default defineConfig({
         label: 'Why and What?',
         link: '/starter/home/'
       }, {
+        label: 'Resources',
+        link: '/starter/resources/'
+      }, {
         label: 'Table of Contents',
         link: '/starter/table-of-contents/'
       }]

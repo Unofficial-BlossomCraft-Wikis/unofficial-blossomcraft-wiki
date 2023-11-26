@@ -1,6 +1,6 @@
 ---
 title: ✦ ORION'S OMNITOOL ✦
-description: ✦ ORION'S OMNITOOL ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ ORION'S OMNITOOL ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/orions_omnitool.png" style="width: 100%;">
 

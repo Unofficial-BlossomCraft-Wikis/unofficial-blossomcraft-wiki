@@ -1,6 +1,6 @@
 ---
 title: ❀ Running Shoes ❀
-description: ❀ Running Shoes ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Running Shoes ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Running Shoes ❀

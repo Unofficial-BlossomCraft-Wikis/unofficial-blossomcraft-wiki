@@ -1,6 +1,6 @@
 ---
 title: Ewok and Jawa Pet Voucher
-description: Ewok and Jawa Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
+description: Ewok and Jawa Pet Voucher | Unofficial BlossomCraft Wiki
 ---
 ```
 Ewok and Jawa Pet Voucher

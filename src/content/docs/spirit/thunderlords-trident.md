@@ -1,6 +1,6 @@
 ---
 title: ❀ ThunderLords Trident ❀
-description: ❀ ThunderLords Trident ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ ThunderLords Trident ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ ThunderLords Trident ❀

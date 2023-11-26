@@ -1,6 +1,6 @@
 ---
 title: Why and What?
-description: Why and What? | Unofficial BlossomCraft Crate & Item Documentation
+description: Why and What? | Unofficial BlossomCraft Wiki
 ---
 
 :::caution

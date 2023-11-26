@@ -1,6 +1,6 @@
 ---
 title: ❀ Blossom Sword ❀
-description: ❀ Blossom Sword ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Blossom Sword ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Blossom Sword ❀

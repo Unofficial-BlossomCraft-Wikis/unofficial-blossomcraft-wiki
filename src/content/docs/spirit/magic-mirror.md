@@ -1,6 +1,6 @@
 ---
 title: ❀ Magic Mirror ❀
-description: ❀ Magic Mirror ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Magic Mirror ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Magic Mirror ❀

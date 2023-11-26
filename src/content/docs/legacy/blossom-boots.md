@@ -1,6 +1,6 @@
 ---
 title: ❀ Blossom Boots ❀
-description: ❀ Blossom Boots ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Blossom Boots ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Blossom Boots ❀

@@ -1,6 +1,6 @@
 ---
 title: ❀ Frostfire Gauntlet ❀
-description: ❀ Frostfire Gauntlet ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Frostfire Gauntlet ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Frostfire Gauntlet ❀

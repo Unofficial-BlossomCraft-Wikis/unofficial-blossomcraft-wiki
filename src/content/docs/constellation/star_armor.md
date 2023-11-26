@@ -1,6 +1,6 @@
 ---
 title: ❀ Star Armor ❀
-description: ❀ Star Armor ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Star Armor ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/star_armor.png" style="width: 100%;">
 <img src="/Assets/constellation/imgs/star_helmet.png" style="width: 100%;">

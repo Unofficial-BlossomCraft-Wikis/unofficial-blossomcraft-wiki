@@ -1,6 +1,6 @@
 ---
 title: ✦ Aries ✦
-description: ✦ Aries ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Aries ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/aries.png" style="width: 100%;">
 

@@ -1,6 +1,6 @@
 ---
 title: ✦ Pisces ✦
-description: ✦ Pisces ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Pisces ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/pisces.png" style="width: 100%;">
 

@@ -1,6 +1,6 @@
 ---
 title: ❀ Eclipse ❀
-description: ❀ Eclipse ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Eclipse ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Eclipse ❀

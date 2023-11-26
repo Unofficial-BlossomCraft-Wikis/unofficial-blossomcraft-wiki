@@ -1,6 +1,6 @@
 ---
 title: ❀ Broken Blade ❀
-description: ❀ Broken Blade ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Broken Blade ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Broken Blade ❀

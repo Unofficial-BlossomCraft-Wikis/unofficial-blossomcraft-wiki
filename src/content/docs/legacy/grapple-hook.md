@@ -1,6 +1,6 @@
 ---
 title: ❀ Grapple Hook ❀
-description: ❀ Grapple Hook ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Grapple Hook ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Grapple Hook ❀

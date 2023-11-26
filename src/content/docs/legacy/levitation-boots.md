@@ -1,6 +1,6 @@
 ---
 title: ❀ Levitation Boots ❀
-description: ❀ Levitation Boots ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Levitation Boots ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Levitation Boots ❀

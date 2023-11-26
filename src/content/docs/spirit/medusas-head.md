@@ -1,6 +1,6 @@
 ---
 title: ❀ Medusas Head ❀
-description: ❀ Medusas Head ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Medusas Head ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Medusas Head ❀

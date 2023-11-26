@@ -1,6 +1,6 @@
 ---
 title: ❀ STEEL TEMPEST ❀
-description: ❀ STEEL TEMPEST ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ STEEL TEMPEST ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ STEEL TEMPEST ❀

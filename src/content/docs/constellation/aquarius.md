@@ -1,6 +1,6 @@
 ---
 title: ✦ Aquarius ✦
-description: ✦ Aquarius ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Aquarius ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/aquarius.png" style="width: 100%;">
 

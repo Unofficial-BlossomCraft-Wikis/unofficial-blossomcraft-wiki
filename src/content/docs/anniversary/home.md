@@ -1,6 +1,6 @@
 ---
 title: Anniversary
-description: Anniversary | Unofficial BlossomCraft Crate & Item Documentation
+description: Anniversary | Unofficial BlossomCraft Wiki
 ---
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
 

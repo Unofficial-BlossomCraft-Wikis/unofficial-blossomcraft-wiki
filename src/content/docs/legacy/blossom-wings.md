@@ -1,6 +1,6 @@
 ---
 title: ❀ BLOSSOM WINGS ❀
-description: ❀ BLOSSOM WINGS ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ BLOSSOM WINGS ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ BLOSSOM WINGS ❀

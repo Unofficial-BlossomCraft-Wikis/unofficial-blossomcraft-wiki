@@ -1,6 +1,6 @@
 ---
 title: ❀ Pig-ifier Wand ❀
-description: ❀ Pig-ifier Wand ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Pig-ifier Wand ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Pig-ifier Wand ❀

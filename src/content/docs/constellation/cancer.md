@@ -1,6 +1,6 @@
 ---
 title: ✦ Cancer ✦
-description: ✦ Cancer ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Cancer ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/cancer.png" style="width: 100%;">
 

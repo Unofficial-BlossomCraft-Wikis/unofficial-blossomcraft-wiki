@@ -1,6 +1,6 @@
 ---
 title: ❀ Infinite Redstone ❀
-description: ❀ Infinite Redstone ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Infinite Redstone ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/infinite_redstone.png" style="width: 100%;">
 

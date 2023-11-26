@@ -1,6 +1,6 @@
 ---
 title: ✦ LEGION BOOTS ✦
-description: ✦ LEGION BOOTS ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ LEGION BOOTS ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/legion_boots.png" style="width: 100%;">
 

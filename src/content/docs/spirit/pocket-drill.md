@@ -1,6 +1,6 @@
 ---
 title: ❀ Pocket Drill ❀
-description: ❀ Pocket Drill ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Pocket Drill ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Pocket Drill ❀

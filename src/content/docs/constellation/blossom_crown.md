@@ -1,6 +1,6 @@
 ---
 title: ✦ BLOSSOM CROWN ✦
-description: ✦ BLOSSOM CROWN ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ BLOSSOM CROWN ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/blossom_crown.png" style="width: 100%;">
 

@@ -1,6 +1,6 @@
 ---
 title: ❀ Ex-Bow-Sive ❀
-description: ❀ Ex-Bow-Sive ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Ex-Bow-Sive ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Ex-Bow-Sive ❀

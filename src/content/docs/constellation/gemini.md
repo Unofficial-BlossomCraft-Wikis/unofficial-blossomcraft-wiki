@@ -1,6 +1,6 @@
 ---
 title: ✦ Gemini ✦
-description: ✦ Gemini ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ Gemini ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/gemini.png" style="width: 100%;">
 

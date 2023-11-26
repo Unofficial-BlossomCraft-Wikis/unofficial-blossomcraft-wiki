@@ -1,6 +1,6 @@
 ---
 title: ❀ Herobrines Pickaxe ❀
-description: ❀ Herobrines Pickaxe ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Herobrines Pickaxe ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Herobrines Pickaxe ❀

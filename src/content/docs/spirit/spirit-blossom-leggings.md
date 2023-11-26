@@ -1,6 +1,6 @@
 ---
 title: ❀ Spirit Blossom Leggings ❀
-description: ❀ Spirit Blossom Leggings ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Spirit Blossom Leggings ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Spirit Blossom Leggings ❀

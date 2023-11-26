@@ -1,6 +1,6 @@
 ---
 title: CART-ME5 Pet Voucher
-description: CART-ME Pet Voucher | Unofficial BlossomCraft Crate & Item Documentation
+description: CART-ME Pet Voucher | Unofficial BlossomCraft Wiki
 ---
 ```
 CART-ME Pet Voucher

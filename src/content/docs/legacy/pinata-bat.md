@@ -1,6 +1,6 @@
 ---
 title: ❀ Piñata Bat ❀
-description: ❀ Piñata Bat ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Piñata Bat ❀ Item | Unofficial BlossomCraft Wiki
 ---
 :::caution
 this item has been disabled

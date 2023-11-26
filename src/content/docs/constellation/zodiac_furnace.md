@@ -1,6 +1,6 @@
 ---
 title: ❀ Zodiac Furnace ❀
-description: ❀ Zodiac Furnace ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Zodiac Furnace ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/zodiac_furnace.png" style="width: 100%;">
 

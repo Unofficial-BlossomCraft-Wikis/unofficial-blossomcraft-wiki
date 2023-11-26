@@ -1,6 +1,6 @@
 ---
 title: ❀ SPIRIT ❀ crate
-description: ❀ SPIRIT ❀ crate | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ SPIRIT ❀ crate | Unofficial BlossomCraft Wiki
 sidebar:
   hidden: true
 ---

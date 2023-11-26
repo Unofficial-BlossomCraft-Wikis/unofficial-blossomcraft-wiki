@@ -1,6 +1,6 @@
 ---
 title: ✦ CELESTIAL WINGS ✦
-description: ✦ CELESTIAL WINGS ✦ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ✦ CELESTIAL WINGS ✦ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/celestial_wings.png" style="width: 100%;">
 

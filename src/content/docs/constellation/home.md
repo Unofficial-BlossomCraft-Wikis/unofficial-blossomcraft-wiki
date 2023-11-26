@@ -1,6 +1,6 @@
 ---
 title: CONSTELLATION crate
-description: CONSTELLATION crate | Unofficial BlossomCraft Crate & Item Documentation
+description: CONSTELLATION crate | Unofficial BlossomCraft Wiki
 sidebar:
   hidden: true
 ---

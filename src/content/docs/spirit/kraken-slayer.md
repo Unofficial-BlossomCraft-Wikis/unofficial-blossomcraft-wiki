@@ -1,6 +1,6 @@
 ---
 title: ❀ Kraken Slayer ❀
-description: ❀ Kraken Slayer ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Kraken Slayer ❀ Item | Unofficial BlossomCraft Wiki
 ---
 ```
 ❀ Kraken Slayer ❀

@@ -1,6 +1,6 @@
 ---
 title: Spawner Crate
-description: Spawner Crate | Unofficial BlossomCraft Crate & Item Documentation
+description: Spawner Crate | Unofficial BlossomCraft Wiki
 ---
 
 The Tier crates, the most common crates to open.

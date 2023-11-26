@@ -1,6 +1,6 @@
 ---
 title: ❀ Magical Block of Sponge ❀
-description: ❀ Magical Block of Sponge ❀ Item | Unofficial BlossomCraft Crate & Item Documentation
+description: ❀ Magical Block of Sponge ❀ Item | Unofficial BlossomCraft Wiki
 ---
 <img src="/Assets/constellation/imgs/magical_block_of_sponge.png" style="width: 100%;">
 
