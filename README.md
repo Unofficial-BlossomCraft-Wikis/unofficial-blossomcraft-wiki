@@ -1,6 +1,6 @@
 # unofficial blossomcraft item wiki
 ## How to Contribute
-You can either make an issue or make a pull request
+You can either make an issue or make a pull request 
 
 ## Making an issue
 ### Requirements
