@@ -27,7 +27,7 @@ You may either:
 
 #### Developing locally
 
-**Prerequisites:** we require [Node.js](https://nodejs.org) (v18). Make sure you have node installed before following these steps.
+**Prerequisites:** we require [Node.js](https://nodejs.org) (v18 or higher). Make sure you have node installed before following these steps.
 
 1. **Fork the repo** to your personal GitHub account by clicking <kbd>Fork</kbd> on the [main repo page][sl].
 
@@ -56,7 +56,7 @@ You may either:
 2. pass the `--host` flag to avoid “502 Bad Gateway” errors:
 
    ```sh
-   npm run dev --host
+   npm run dev -- --host
    ```
 
 The dev container used for GitHub Codespaces can also be used with [other supporting tools](https://containers.dev/supporting), including VS Code.
