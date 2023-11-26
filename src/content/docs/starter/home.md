@@ -9,18 +9,14 @@ This website is ***NOT*** up to date.
 We will be pushing updates every 3 days ► every week
 :::
 
-These documents have been created to help make seeing all of the amazing Blossom Items easier, this includes: 
+This wiki has been created to help make seeing all of the amazing Blossom Items easier, this includes: 
 - crates
 - crate keys
 - crate Blossom Items
 - non-crate Blossom Items
 
-We will also have a google Sheet with all crates linked at the end.
+We will also have a google Sheet with all crates linked at the end.[^1]
 
-Alot of people want lists so this was made.
+Alot of people have requested item lists so this was made. however this will start haveing other blossomcraft related info on it!
 
-### Official Resources
-
-- [BlossomCraft Pet Showcase](https://docs.google.com/document/d/1PBvYnRUlfhd6AVdqC3_RbdDcfP46xSpxHbI1fEMY_10/edit?usp=sharing)
-- [BlossomCraft wiki](https://blossomcraft.org/wiki)
-- [Blossomcraft Discord](https://discord.gg/blossomcraft)
+[^1]: Coming Soon
