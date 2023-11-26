@@ -15,7 +15,7 @@ export default defineConfig({
   site,
   integrations: [starlight({
     favicon: 'favicon.png',
-    title: 'Unofficial BlossomCraft Crate & Item Wiki',
+    title: 'Unofficial BlossomCraft Wiki',
     social: {
       github: 'https://github.com/Unofficial-BlossomCraft-Wikis/fan-blossomcraft-item-docs'
     },
