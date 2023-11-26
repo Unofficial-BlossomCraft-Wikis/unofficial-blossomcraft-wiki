@@ -148,7 +148,7 @@ export default defineConfig({
 		name: 'Unofficial BlossomCraft Wiki',
 		icon: './src/assets/favicon.png',
 		short_name: 'Unofficial BlossomCraft Wiki',
-		description: 'Unofficial BlossomCraft Crate & Item Wiki',
+		description: 'Unofficial BlossomCraft Wiki',
 		start_url: '/',
 		theme_color: '#E16FD6',
 		background_color: '#E16FD6',
