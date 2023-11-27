@@ -36,8 +36,11 @@ export default defineConfig({
       items: [
       // Each item here is one entry in the navigation menu.
       {
-        label: 'Why and What?',
+        label: "We're migrating to WikiDot",
         link: '/starter/home/'
+      }, {
+        label: 'Why and What?',
+        link: '/starter/why-and-what/'
       }, {
         label: 'Resources',
         link: '/starter/resources/'
