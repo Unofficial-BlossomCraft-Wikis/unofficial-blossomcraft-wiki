@@ -9,7 +9,7 @@ Truthfully, the deployment time of the website is reaching the 5-7 minute range,
 ## What is WikiDot?
 [WikiDot (wikidot.com)](https://wikidot.com) is a [wiki farm](https://wikipedia.org/wiki/Wiki_farm) that, unlike other wiki farms (like fandom), does not contain a ton of ads, the platform does still serve ads to users who are not signed in, but they are, as wiki dot says, placed in unintrusive spots.
 
-WikiDot is also the wiki farm home to the [SCP wiki](https://scp-wiki.wikidot.com/) this fact. This fact shows that the platform can handle a large number of pages, and given that, as of writing, we have 7 crates making close to 200 files so the ability to handle a load of files is nessasary.
+WikiDot is also the wiki farm home to the [SCP wiki](https://scp-wiki.wikidot.com/). This fact shows that the platform can handle a large number of pages, and given that, as of writing, we have 7 crates making close to 200 (EDIT, as of a recent git commit made on 12/18/2023 that updated every page, there are 116 files, 2 where back end files, so there are 114 pages, still a metric ton of pages) files so the ability to handle a load of files is nessasary.
 
 ## Why WikiDot?
 WikiDot, as stated before, does not contain tons of ads like Fandom, it also alows for more consomizability without having to keep up the website code.
