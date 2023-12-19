@@ -2,6 +2,13 @@
 title: Why and What?
 description: Why and What? | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
 
 :::caution
 This website is ***NOT*** up to date.

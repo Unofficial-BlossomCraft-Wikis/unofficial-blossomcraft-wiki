@@ -2,6 +2,14 @@
 title: ✦ BLOSSOM PICKAXE ✦
 description: ✦ BLOSSOM PICKAXE ✦ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/blossom_pickaxe.png" style="width: 100%;">
 
 ##### item:

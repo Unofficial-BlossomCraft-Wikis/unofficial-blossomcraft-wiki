@@ -2,6 +2,14 @@
 title: key shop
 description: key shop | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ## Location
 ```/warp KeyShop```
 ## keys and prices

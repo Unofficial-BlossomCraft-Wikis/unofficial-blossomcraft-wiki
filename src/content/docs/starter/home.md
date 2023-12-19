@@ -34,3 +34,6 @@ It will be kept up, infact it will be updated a day or two after the WikiDot, as
 Although the platform the site is currently running on is amazing, the speed is the main factor here, I will also try to make this a smooth transition.
 
 Have a good day/night!
+
+## Update from Altie
+After the Christmas crate, I will no longer be updating this site, please start using the [wikidot site](https://unofficialblossomcraftwiki.wikidot.com).

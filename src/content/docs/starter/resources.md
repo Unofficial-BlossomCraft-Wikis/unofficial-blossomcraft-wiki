@@ -2,6 +2,13 @@
 title: Resources
 description: Resources | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
 
 :::tip
 You can submit user-made or official resources using [Github issues](https://github.com/Unofficial-BlossomCraft-Wikis/unofficial-blossomcraft-wiki/issues), [Github pull requests](https://github.com/Unofficial-BlossomCraft-Wikis/unofficial-blossomcraft-wiki/edit/main/src/content/docs/starter/resources.md), or by DMing @altie122 on discord

@@ -2,6 +2,14 @@
 title: Ewok and Jawa Pet Voucher
 description: Ewok and Jawa Pet Voucher | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 Ewok and Jawa Pet Voucher
 Voucher

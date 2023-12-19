@@ -2,6 +2,14 @@
 title: ❀ Herobrines Pickaxe ❀
 description: ❀ Herobrines Pickaxe ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ Herobrines Pickaxe ❀
 Efficiency VII

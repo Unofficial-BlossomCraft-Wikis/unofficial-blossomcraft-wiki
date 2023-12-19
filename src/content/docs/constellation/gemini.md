@@ -2,6 +2,14 @@
 title: ✦ Gemini ✦
 description: ✦ Gemini ✦ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/gemini.png" style="width: 100%;">
 
 ##### item:

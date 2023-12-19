@@ -2,6 +2,14 @@
 title: ❀ Star Armor ❀
 description: ❀ Star Armor ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/star_armor.png" style="width: 100%;">
 <img src="/Assets/constellation/imgs/star_helmet.png" style="width: 100%;">
 <img src="/Assets/constellation/imgs/star_chestplate.png" style="width: 100%;">

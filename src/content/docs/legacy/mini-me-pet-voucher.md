@@ -2,6 +2,14 @@
 title: Mini Me Pet Voucher
 description: Mini Me Pet Voucher | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 Mini Me Pet Voucher
 Voucher

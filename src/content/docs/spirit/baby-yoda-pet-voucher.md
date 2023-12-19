@@ -2,6 +2,14 @@
 title: Baby Yoda Pet Voucher
 description: Baby Yoda Pet Voucher | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 Baby Yoda Pet Voucher
 Voucher

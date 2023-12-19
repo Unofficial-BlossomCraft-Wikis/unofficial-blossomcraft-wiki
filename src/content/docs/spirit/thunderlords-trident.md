@@ -2,6 +2,14 @@
 title: ❀ ThunderLords Trident ❀
 description: ❀ ThunderLords Trident ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ ThunderLords Trident ❀
 Riptide II

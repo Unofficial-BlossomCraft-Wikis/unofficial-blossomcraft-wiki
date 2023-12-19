@@ -2,6 +2,14 @@
 title: Red Panda Pet Voucher
 description: Red Panda Pet Voucher | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 Red Panda Pet Voucher
 Voucher

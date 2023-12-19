@@ -3,6 +3,13 @@ title: Table of Contents
 description: Table of Contents | Unofficial BlossomCraft Wiki
 tableOfContents: false
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
 
 :::caution
 this website is ***NOT*** up to date.

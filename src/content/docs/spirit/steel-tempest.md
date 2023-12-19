@@ -2,6 +2,14 @@
 title: ❀ STEEL TEMPEST ❀
 description: ❀ STEEL TEMPEST ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ STEEL TEMPEST ❀
 Knockback IX

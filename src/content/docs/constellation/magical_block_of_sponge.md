@@ -2,6 +2,14 @@
 title: ❀ Magical Block of Sponge ❀
 description: ❀ Magical Block of Sponge ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/magical_block_of_sponge.png" style="width: 100%;">
 
 ##### item:

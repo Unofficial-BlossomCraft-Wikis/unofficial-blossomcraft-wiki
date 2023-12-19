@@ -2,6 +2,14 @@
 title: ❀ Big Book of Bad Jokes III ❀
 description: ❀ Big Book of Bad Jokes III ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/big_book_of_bad_jokes_iii.png" style="width: 100%;">
 
 ##### item:
