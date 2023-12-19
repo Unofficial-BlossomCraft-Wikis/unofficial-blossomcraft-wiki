@@ -4,6 +4,14 @@ description: ❀ SPIRIT ❀ crate | Unofficial BlossomCraft Wiki
 sidebar:
   hidden: true
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 
 ## Purchase price
 $140,000 at `/warp KeyShop`

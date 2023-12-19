@@ -2,6 +2,14 @@
 title: ❀ Chpsys Bath Water ❀
 description: ❀ Chpsys Bath Water ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ Chpsys Bath Water ❀
 Unlimited uses

@@ -2,6 +2,14 @@
 title: ✦ CELESTIAL STAR ✦
 description: ✦ CELESTIAL STAR ✦ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/celestial_star.png" style="width: 100%;">
 
 ##### item:

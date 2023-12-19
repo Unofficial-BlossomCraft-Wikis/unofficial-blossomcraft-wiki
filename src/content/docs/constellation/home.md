@@ -4,6 +4,14 @@ description: CONSTELLATION crate | Unofficial BlossomCraft Wiki
 sidebar:
   hidden: true
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 :::tip[3D models]
 not every item currently has their 3d model
 

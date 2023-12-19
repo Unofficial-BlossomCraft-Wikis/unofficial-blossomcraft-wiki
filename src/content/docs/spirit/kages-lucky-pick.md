@@ -2,6 +2,14 @@
 title: ❀ Kage's Lucky Pick ❀
 description: ❀ Kage's Lucky Pick ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ Kage's Lucky Pick ❀
 Looting IV

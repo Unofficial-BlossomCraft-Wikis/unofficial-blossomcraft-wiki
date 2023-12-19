@@ -2,6 +2,14 @@
 title: ❀ The Ender Sword ❀
 description: ❀ The Ender Sword ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ The Ender Sword ❀
 Fire Aspect III

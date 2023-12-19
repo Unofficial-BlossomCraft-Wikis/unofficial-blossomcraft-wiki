@@ -2,6 +2,14 @@
 title: ✦ Aries ✦
 description: ✦ Aries ✦ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/aries.png" style="width: 100%;">
 
 ##### items:

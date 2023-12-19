@@ -2,6 +2,14 @@
 title: ✦ Scorpio ✦
 description: ✦ Scorpio ✦ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <!-- Fix capitolization of 'scorpio' -->
 <img src="/Assets/constellation/imgs/Scorpio.png" style="width: 100%;">
 

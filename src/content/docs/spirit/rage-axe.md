@@ -2,6 +2,14 @@
 title: ❀ Rage Axe ❀
 description: ❀ Rage Axe ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ Rage Axe ❀
 Efficiency V

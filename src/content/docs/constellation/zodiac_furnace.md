@@ -2,6 +2,14 @@
 title: ❀ Zodiac Furnace ❀
 description: ❀ Zodiac Furnace ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <img src="/Assets/constellation/imgs/zodiac_furnace.png" style="width: 100%;">
 
 ##### item:

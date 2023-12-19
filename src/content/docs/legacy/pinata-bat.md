@@ -3,6 +3,14 @@ title: ❀ Piñata Bat ❀
 description: ❀ Piñata Bat ❀ Item | Unofficial BlossomCraft Wiki
 ---
 :::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
+:::caution
 this item has been disabled
 :::
 ```

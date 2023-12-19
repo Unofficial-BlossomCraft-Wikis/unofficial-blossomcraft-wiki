@@ -2,6 +2,14 @@
 title: ❀ Broken Blade ❀
 description: ❀ Broken Blade ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ Broken Blade ❀
 Broken Blade

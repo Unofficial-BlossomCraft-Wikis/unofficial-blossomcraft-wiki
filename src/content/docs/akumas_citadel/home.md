@@ -2,6 +2,14 @@
 title: Akuma’s Citadel
 description: Akuma’s Citadel | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
 > to find info on the dungeon it's self, please go the the the offical wiki:
 > https://blossomcraft.org/wiki/dungeons

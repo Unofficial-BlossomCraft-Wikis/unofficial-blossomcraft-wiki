@@ -2,6 +2,14 @@
 title: CART-ME5 Pet Voucher
 description: CART-ME Pet Voucher | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 CART-ME Pet Voucher
 Voucher

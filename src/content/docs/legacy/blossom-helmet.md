@@ -2,6 +2,14 @@
 title: ❀ Blossom Helmet ❀
 description: ❀ Blossom Helmet ❀ Item | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 ❀ Blossom Helmet ❀
 Aqua Affinity

@@ -2,13 +2,18 @@
 title: Anniversary
 description: Anniversary | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
 
 ### How to get the key:
-- [X] buyable (on [blossomcraft's store](https://shop.blossomcraft.org/))
-  - ~~9.95~~ 7.46 USD | 1 Anniversary Key
-  - ~~39.95~~ 29.96 USD | 5 Anniversary Key
-  - ~~69.95~~ 52.46 USD | 10 Anniversary Key + FREE ANNIVERSARY VOUCHER
+- [ ] buyable (on [blossomcraft's store](https://shop.blossomcraft.org/))
 - [ ] obtainable (in game)
 
 ### key overview

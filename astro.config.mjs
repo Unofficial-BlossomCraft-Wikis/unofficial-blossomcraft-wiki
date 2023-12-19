@@ -135,6 +135,9 @@ export default defineConfig({
         variant: 'danger'
       }
     }, {
+      label: 'Christmas Crate 2023',
+      link: '/christmas-crate-2023/home/'
+    },{
       label: 'Dungeons',
       collapsed: true,
       badge: {

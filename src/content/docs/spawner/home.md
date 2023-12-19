@@ -2,6 +2,13 @@
 title: Spawner Crate
 description: Spawner Crate | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
 
 The Tier crates, the most common crates to open.
 

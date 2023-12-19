@@ -2,6 +2,14 @@
 title: Blossom Bee Pet Voucher
 description: Blossom Bee Pet Voucher | Unofficial BlossomCraft Wiki
 ---
+:::caution
+We are currently migrating to WikiDot
+
+more information [here](/starter/home/)
+
+Please start using the [WikiDot](https://unofficialblossomcraftwiki.wikidot.com/)
+:::
+
 ```
 Blossom Bee Pet Voucher
 Voucher
