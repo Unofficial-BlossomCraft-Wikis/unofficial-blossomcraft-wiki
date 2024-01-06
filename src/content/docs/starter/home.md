@@ -2,7 +2,7 @@
 title: We're migrating to WikiDot
 description: We're migrating to WikiDot, heres why, what to expect, and some more information! | Unofficial BlossomCraft Wiki
 ---
-
+# The new Chronopunk crate will be the first crate documented on the wikidot!
 ## Why are we migrating?
 Truthfully, the deployment time of the website is reaching the 5-7 minute range, which is quite lengthy.
 
